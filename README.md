@@ -12,6 +12,7 @@ Fully written in Python for educational use
 
 💻 How to Run
 `python caseor.py`
+
 🧠 What is Caesar Cipher?
 A substitution cipher where each letter in the plaintext is shifted a fixed number of places down the alphabet.
 
